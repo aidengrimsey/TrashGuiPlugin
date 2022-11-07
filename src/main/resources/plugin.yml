@@ -1,0 +1,9 @@
+name: TrashGuiPlugin
+version: '${project.version}'
+main: me.amg.trashguiplugin.TrashGuiPlugin
+api-version: 1.19
+authors: [ pepperish ]
+description: A plugin to open up a trash menu.
+commands:
+  trash:
+    description: Open up a trash GUI.
